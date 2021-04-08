@@ -4,7 +4,7 @@
   "publisher": "Julian Dittmann",
   "brief": "",
   "description": "",
-  "version": "17.0.0.0",
+  "version": "18.0.0.0",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -13,9 +13,9 @@
   "dependencies": [
   ],
   "screenshots": [],
-  "platform": "17.0.0.0",
-  "application": "17.0.0.0",
-  "runtime": "6.0",
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "runtime": "7.0",
   "target": "Cloud",
   "showMyCode": true,
   "idRanges":[
