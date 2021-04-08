@@ -9,10 +9,4 @@ codeunit 50103 "jdi Template Test Demo"
 
     end;
 
-    [Test]
-    procedure TestError()
-    begin
-        Error('This Test has to fail');
-    end;
-
 }
