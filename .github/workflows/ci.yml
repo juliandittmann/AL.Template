@@ -25,12 +25,16 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run pipeline
-        env:
+        uses: juliandittmann/run-alpipeline@v0.1
+        with:
+          version: ${{env.version}}
+          appVersion: ${{env.appVersion}}
+          appBuild: ${{env.appBuild}}
+          appRevision: ${{env.appRevision}}
           InsiderSasToken: ${{ secrets.InsiderSasToken }}
           LicenseFile: ${{ secrets.LicenseFile }}
           CodeSignCertPfxFile: ${{ secrets.CodeSignCertPfxFile }}
           CodeSignCertPfxPassword: ${{ secrets.CodeSignCertPfxPassword }}
-        run: scripts\DevOps-Pipeline.ps1 -environment GitHubActions -version ${{env.version}} -appBuild ${{env.appBuild}} -appRevision ${{env.appRevision}}
 
       - name: Save manifest
         run: |
@@ -77,7 +81,3 @@ jobs:
           name: Manifest
           path: output/manifest.json
           if-no-files-found: ignore
-
-      - name: Cleanup
-        if: always()
-        run: scripts\Cleanup.ps1
