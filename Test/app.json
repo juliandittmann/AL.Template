@@ -4,7 +4,7 @@
   "publisher": "Julian Dittmann",
   "brief": "AL.Template Test App",
   "description": "AL.Template Test App",
-  "version": "19.0.0.0",
+  "version": "19.1.0.0",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -44,14 +44,14 @@
     {
       "name": "AL.Template",
       "publisher": "Julian Dittmann",
-      "version": "19.0.0.0",
+      "version": "19.1.0.0",
       "id": "9c30c7cc-475b-4bb3-b9ed-63b83d3627e1"
     }
   ],
   "screenshots": [],
   "application": "19.0.0.0",
   "platform": "19.0.0.0",
-  "runtime": "8.0",
+  "runtime": "8.1",
   "target": "Cloud",
   "resourceExposurePolicy": {
     "allowDebugging": true,
