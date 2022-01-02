@@ -26,7 +26,7 @@ You can also checkout a tag or a release branch.
 
 The CI/CD process for the template is already preconfigured. When using the template the pipeline process is immediately triggered.
 
-A documentation for the pipeline you can find [here](https://docs.github.com/categories/github-pages-basics/)
+A documentation for the pipeline you can find [here](https://docs.github.com/categories/github-pages-basics/).
 
 ### Support or Contact
 
