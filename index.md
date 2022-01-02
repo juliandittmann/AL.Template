@@ -15,7 +15,7 @@ You can use the template by visiting the projekt on [GitHub](https://github.com/
 
 ### Need an older template version?
 
-You can find all template releases under: https://github.com/juliandittmann/AL.Template/releases
+You can find all template releases under: [https://github.com/juliandittmann/AL.Template/releases](https://github.com/juliandittmann/AL.Template/releases)
 
 
 You can also checkout a tag or a release branch.
@@ -27,7 +27,6 @@ You can also checkout a tag or a release branch.
 The CI/CD process for the template is already preconfigured. When using the template the pipeline process is immediately triggered.
 
 A documentation for the pipeline you can find [here](https://docs.github.com/categories/github-pages-basics/)
-
 
 ### Support or Contact
 
