@@ -5,7 +5,16 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+    paths-ignore:
+      - 'README.md'
+      - '.github/**'
+      - 'Docs/**'
   workflow_dispatch:
+    push:
+      paths-ignore:
+        - 'README.md'
+        - '.github/**'
+        - 'Docs/**'
 
 env:
   version: ci
