@@ -2,7 +2,7 @@
 
 # AL.Template for Dynamics 365 Business Central Projects
 
-This is a template which provides preconfigured settings and CI/CD process for a Dynamics 365 Business Central Project. Take a look at the [Getting Started documentation](https://github.com/juliandittmann/AL.BingMapsSDK/blob/master/Docs/Getting%20Started.md).
+This is a template which provides preconfigured settings and CI/CD process for a Dynamics 365 Business Central Project. Take a look at the [Getting Started documentation](./Docs/Getting%20Started.md).
 
 ## Developer Note
 
