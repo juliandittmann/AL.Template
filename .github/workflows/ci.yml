@@ -18,7 +18,7 @@ on:
 
 env:
   version: ci
-  appVersion: '19.4'
+  appVersion: '19.5'
   appBuild: ${{github.run_number}}
   appRevision: 0
 
