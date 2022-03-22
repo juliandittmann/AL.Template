@@ -4,7 +4,7 @@
   "publisher": "Julian Dittmann",
   "brief": "AL.Template Test App",
   "description": "AL.Template Test App",
-  "version": "19.3.0.0",
+  "version": "19.4.0.0",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -44,7 +44,7 @@
     {
       "name": "AL.Template",
       "publisher": "Julian Dittmann",
-      "version": "19.2.0.0",
+      "version": "19.4.0.0",
       "id": "9c30c7cc-475b-4bb3-b9ed-63b83d3627e1"
     }
   ],
