@@ -7,7 +7,7 @@ on:
 
 env:
   version: current
-  appVersion: '19.5'
+  appVersion: '20.0'
   appBuild: 2147483647
   appRevision: 0
 

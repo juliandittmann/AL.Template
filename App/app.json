@@ -4,18 +4,22 @@
   "publisher": "Julian Dittmann",
   "brief": "",
   "description": "",
-  "version": "19.5.0.0",
+  "version": "20.0.0.0",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
   "url": "https://github.com/juliandittmann/AL.Template",
   "logo": "",
+  "suppressWarnings": [
+  ],
+  "preprocessorSymbols": [
+  ],
   "dependencies": [
   ],
   "screenshots": [],
-  "platform": "19.0.0.0",
-  "application": "19.0.0.0",
-  "runtime": "8.1",
+  "platform": "20.0.0.0",
+  "application": "20.0.0.0",
+  "runtime": "9.0",
   "target": "Cloud",
   "resourceExposurePolicy": {
     "allowDebugging": true,
@@ -29,10 +33,11 @@
     }
   ],
   "contextSensitiveHelpUrl": "https://example.com/help/",
+  "applicationInsightsConnectionString": "",
   "features": [
     "TranslationFile"
   ],
   "supportedLocales": [
     "en-US"
-  ]
+  ]  
 }

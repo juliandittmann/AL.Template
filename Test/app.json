@@ -4,7 +4,7 @@
   "publisher": "Julian Dittmann",
   "brief": "AL.Template Test App",
   "description": "AL.Template Test App",
-  "version": "19.5.0.0",
+  "version": "20.0.0.0",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -15,43 +15,43 @@
       "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
       "publisher": "Microsoft",
       "name": "Library Assert",
-      "version": "19.0.0.0"
+      "version": "20.0.0.0"
     },
     {
       "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
       "publisher": "Microsoft",
       "name": "Any",
-      "version": "19.0.0.0"
+      "version": "20.0.0.0"
     },
     {
       "id": "9856ae4f-d1a7-46ef-89bb-6ef056398228",
       "publisher": "Microsoft",
       "name": "System Application Test Library",
-      "version": "19.0.0.0"
+      "version": "20.0.0.0"
     },
     {
       "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
       "publisher": "Microsoft",
        "name": "Tests-TestLibraries",
-       "version": "19.0.0.0"
+       "version": "20.0.0.0"
     },
     {
       "name": "Test Runner",
       "publisher": "Microsoft",
-      "version": "19.0.0.0",
+      "version": "20.0.0.0",
       "id": "23de40a6-dfe8-4f80-80db-d70f83ce8caf"
     },
     {
       "name": "AL.Template",
       "publisher": "Julian Dittmann",
-      "version": "19.5.0.0",
+      "version": "20.0.0.0",
       "id": "9c30c7cc-475b-4bb3-b9ed-63b83d3627e1"
     }
   ],
   "screenshots": [],
-  "application": "19.0.0.0",
-  "platform": "19.0.0.0",
-  "runtime": "8.1",
+  "application": "20.0.0.0",
+  "platform": "20.0.0.0",
+  "runtime": "9.0",
   "target": "Cloud",
   "resourceExposurePolicy": {
     "allowDebugging": true,
