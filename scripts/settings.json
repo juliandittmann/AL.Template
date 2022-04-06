@@ -2,6 +2,7 @@
     "name": "AL.Template",
     "memoryLimit": "6G",
     "installApps": "",
+    "installTestApps": "",
     "previousApps": "",
     "appFolders": "App",
     "testFolders": "Test",
