@@ -7,7 +7,7 @@ on:
 
 env:
   version: current
-  appVersion: '19.5'
+  appVersion: '20.0'
   appBuild: 2147483647
   appRevision: 0
 
@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run pipeline
-        uses: juliandittmann/run-alpipeline@v0.1
+        uses: juliandittmann/run-alpipeline@v0.3
         with:
           version: ${{env.version}}
           appVersion: ${{env.appVersion}}
